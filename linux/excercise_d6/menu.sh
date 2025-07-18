@@ -12,7 +12,6 @@ menu(){
             echo "${num_ex}: ${excercise}"
         fi
     done
-1
 }
 
 run_excercise(){
